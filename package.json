@@ -1,0 +1,22 @@
+{
+  "name": "nodeapis",
+  "version": "1.0.0",
+  "description": "basic node apis",
+  "main": "AddUser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srivathsavkm/nodeapitest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srivathsavkm/nodeapitest/issues"
+  },
+  "homepage": "https://github.com/srivathsavkm/nodeapitest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
